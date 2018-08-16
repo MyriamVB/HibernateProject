@@ -23,7 +23,7 @@
 
 
     <build>
-             <!-- plugins-->
+             <!-- plugins modif in github to test of pull in Intelij -->
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
